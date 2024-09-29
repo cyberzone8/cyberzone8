@@ -21,6 +21,9 @@ I'm **cyberzone8**, a passionate developer focused on the technologies driving t
 ![GitHub](https://img.shields.io/badge/-GitHub-8B0000?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchaindotcom&logoColor=white)
 
 ## 🌟 Featured Projects
 
