@@ -1,8 +1,6 @@
-
-
 ## Welcome to my Tech World 🌐
 
-![Tech Clover](https://link-a-tu-trebol-tecnologico.com) <!-- Aquí inserta la URL de tu trébol tecnológico -->
+![Tech Clover](https://cyberzone8.github.io/poly/) <!-- Aquí inserta la URL de tu trébol tecnológico -->
 
 I'm **cyberzone8**, a passionate developer focused on the technologies driving the Fourth Industrial Revolution. My interests span across **Artificial Intelligence**, **Internet of Things (IoT)**, **Blockchain**, and **Big Data**. I'm constantly exploring the latest innovations to create solutions that push the boundaries of what's possible.
 
@@ -11,7 +9,7 @@ I'm **cyberzone8**, a passionate developer focused on the technologies driving t
 - 👯 I’m looking to collaborate on **AI-driven IoT solutions**.
 - 🤔 I’m looking for help with **implementing blockchain in smart contracts**.
 - 💬 Ask me about **anything tech-related**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-godoy-9b505029/) | [LinkedIn](https://www.linkedin.com/in/gustavo-godoy-9b505029/)
 - ⚡ Fun fact: I'm fascinated by how **AI** and **IoT** are reshaping our world.
 
 ## 🚀 My Tech Stack
@@ -42,11 +40,9 @@ I'm currently diving deeper into:
 
 Feel free to reach out if you want to collaborate on projects or just chat about the latest in tech:
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-godoy-9b505029/)
+- [Email](mailto:cyberzone8.tech@gmail.com)
 
 ---
 
-![Footer Image](https://link-a-tu-imagen-final.com) <!-- Puedes agregar una imagen final que refuerce la estética tecnológica -->
-
+![Footer Image](https://evermonte.com/wp-content/uploads/2022/09/tecnologia-inteligente-trabalho-humanizado.png) <!-- Puedes agregar una imagen final que refuerce la estética tecnológica -->
