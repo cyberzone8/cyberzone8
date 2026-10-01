@@ -1,4 +1,3 @@
-````markdown
 # Gustavo Godoy
 
 ### Interdisciplinary Research · Systems Thinking · AI · Territorial Intelligence
@@ -11,29 +10,29 @@ My approach is interdisciplinary: I use computational tools not as substitutes f
 
 ---
 
-## Research focus
+## Research Focus
 
 ### Psicosphere–Technosphere
 
 My current research explores the interaction between:
 
-- human and psychosocial processes
-- social relations and collective action
-- organizations and institutions
-- technologies and infrastructures
-- territorial configurations
-- sustainability, resilience and transformability
+* human and psychosocial processes
+* social relations and collective action
+* organizations and institutions
+* technologies and infrastructures
+* territorial configurations
+* sustainability, resilience and transformability
 
 Research question:
 
 > **How do human processes, social relations, institutions and technologies interact in the evolution of complex territorial systems?**
 
-🔬 Research page:  
-**[Psicosphere–Technosphere](https://cyberzone8.github.io/psychosphere-technosphere/)**
+🔬 **Research page:**
+https://cyberzone8.github.io/psychosphere-technosphere/
 
 ---
 
-## From territory to computational intelligence
+## From Territory to Computational Intelligence
 
 I am interested in developing computational representations that can connect:
 
@@ -59,7 +58,7 @@ Hypotheses
 Observation
       ↓
 Validation
-````
+```
 
 A central epistemological principle of this work is:
 
@@ -67,7 +66,7 @@ A central epistemological principle of this work is:
 
 ---
 
-## Current research directions
+## Current Research Directions
 
 ### 🧠 Computational Social Systems
 
@@ -102,7 +101,7 @@ Building interfaces between:
 
 ---
 
-## Selected research
+## Selected Research
 
 ### Psicosfera–Technosphere
 
@@ -157,11 +156,11 @@ The objective is to reduce fragmentation between community needs, institutional 
 
 ---
 
-## Computational interests
+## Computational Interests
 
 I use programming and computational tools as part of interdisciplinary research and prototyping.
 
-### Languages & technologies
+### Languages & Technologies
 
 ```text
 Python
@@ -178,7 +177,7 @@ Artificial Intelligence
 Semantic Analysis
 ```
 
-### Research-oriented applications
+### Research-Oriented Applications
 
 * Natural language processing
 * Semantic representation
@@ -193,7 +192,7 @@ Semantic Analysis
 
 ---
 
-## Systems perspective
+## Systems Perspective
 
 My work is influenced by:
 
@@ -224,33 +223,33 @@ This distinction is important when moving from computational patterns toward sci
 
 ---
 
-## What I am building
+## What I Am Building
 
 I am currently exploring a family of tools and research infrastructures for:
 
-**1. Territorial intelligence**
+**1. Territorial Intelligence**
 
 Systems for organizing and connecting territorial knowledge.
 
-**2. Community learning**
+**2. Community Learning**
 
 Tools that help communities transform local knowledge into structured information and collective learning.
 
-**3. Computational research**
+**3. Computational Research**
 
 Methods for representing complex systems through entities, relations, networks and semantic structures.
 
-**4. AI-assisted analysis**
+**4. AI-Assisted Analysis**
 
 Using AI to structure large volumes of qualitative information and identify candidate relationships for subsequent validation.
 
-**5. Systems strategy**
+**5. Systems Strategy**
 
 Connecting systemic diagnosis with strategic intervention and measurable change.
 
 ---
 
-## Open collaboration
+## Open Collaboration
 
 I am interested in collaborating with researchers, developers and practitioners working on:
 
@@ -271,7 +270,7 @@ If your work connects several of these domains, I would be interested in explori
 
 ---
 
-## Selected projects
+## Selected Projects
 
 | Project                       | Focus                                                   |
 | ----------------------------- | ------------------------------------------------------- |
@@ -298,7 +297,7 @@ https://www.linkedin.com/in/gustavo-godoy-phd-confidential-strategic-advisor-9b5
 
 ---
 
-## Research principle
+## Research Principle
 
 > **The human describes; the system structures; the researcher interprets; evidence validates.**
 
@@ -307,5 +306,3 @@ https://www.linkedin.com/in/gustavo-godoy-phd-confidential-strategic-advisor-9b5
 <sub>
 Gustavo Modesto Godoy Uribe · Interdisciplinary Research · Territorial Intelligence · Computational Social Systems
 </sub>
-```
-
