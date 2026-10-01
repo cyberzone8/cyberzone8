@@ -1,54 +1,311 @@
-## Welcome to my Tech World 🌐 to My Full Stack Tech Journey
+````markdown
+# Gustavo Godoy
 
-![Tech Clover](https://cyberzone8.github.io/poly/) <!-- Aquí inserta la URL de tu trébol tecnológico -->
+### Interdisciplinary Research · Systems Thinking · AI · Territorial Intelligence
 
-I'm **cyberzone8**, a passionate Full Stack Developer focused on the technologies driving the Fourth Industrial Revolution. My interests span across **Artificial Intelligence**, **Internet of Things (IoT)**, **Blockchain**, and **Big Data**. I'm constantly exploring the latest innovations to create solutions that push the boundaries of what's possible, while also crafting modern, responsive, and scalable frontends using cutting-edge technologies. My expertise covers frameworks like **React**, **Vue**, and **Angular**, and I'm deeply committed to integrating frontend solutions with backend architectures to deliver seamless and efficient user experiences.
+I work at the intersection of **sustainability, complex systems, computational social science, territorial studies and artificial intelligence**.
 
-- 🔭 I’m currently working on **Industry 4.0 Projects**.
-- 🌱 I’m currently learning **Edge Computing** and **Quantum Computing**.
-- 👯 I’m looking to collaborate on **AI-driven IoT solutions**.
-- 🤔 I’m looking for help with **implementing blockchain in smart contracts**.
-- 💬 Ask me about **anything tech-related**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-godoy-9b505029/) | [LinkedIn](https://www.linkedin.com/in/gustavo-godoy-9b505029/)
-- ⚡ Fun fact: I'm fascinated by how **AI** and **IoT** are reshaping our world.
+My research focuses on understanding how **people, relationships, organizations, institutions, technologies and territories interact to generate patterns of stability, vulnerability, resilience and transformation**.
 
-## 🚀 My Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-0044cc?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-008080?style=flat&logo=javascript&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-8B0000?style=flat&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchaindotcom&logoColor=white)
-
-## 🌟 Featured Projects
-
-- [**Industry 4.0 Dashboard**](https://github.com/cyberzone8/industry-4-dashboard): A real-time data monitoring dashboard for smart factories.
-- [**AIoT Platform**](https://github.com/cyberzone8/aiot-platform): Combining AI and IoT for intelligent decision-making in industrial settings.
-- [**Blockchain-based Smart Contracts**](https://github.com/cyberzone8/blockchain-smart-contracts): Implementing secure and efficient smart contracts using blockchain.
-
-## 🧠 Learning Path
-
-I'm currently diving deeper into:
-
-- **Frontend Optimization**: Enhancing user experience by learning **React Suspense**, **PWA** development, and advanced state management with **Redux** and **Recoil**.
-- **Edge Computing**: Bringing computation and data storage closer to the sources of data. Integrating edge computing solutions with web applications to reduce latency and improve responsiveness.
-- **Quantum Computing**: Exploring the next frontier of computation.
-
-## 💬 Let's Connect
-
-Feel free to reach out if you want to collaborate on projects or just chat about the latest in tech:
-
-- [LinkedIn](https://www.linkedin.com/in/gustavo-godoy-9b505029/)
-- [Email](mailto:cyberzone8.tech@gmail.com)
+My approach is interdisciplinary: I use computational tools not as substitutes for disciplinary knowledge, but as instruments for structuring information, exploring relationships, generating hypotheses and supporting empirical inquiry.
 
 ---
 
-![Footer Image](https://evermonte.com/wp-content/uploads/2022/09/tecnologia-inteligente-trabalho-humanizado.png) <!-- Puedes agregar una imagen final que refuerce la estética tecnológica -->
+## Research focus
+
+### Psicosphere–Technosphere
+
+My current research explores the interaction between:
+
+- human and psychosocial processes
+- social relations and collective action
+- organizations and institutions
+- technologies and infrastructures
+- territorial configurations
+- sustainability, resilience and transformability
+
+Research question:
+
+> **How do human processes, social relations, institutions and technologies interact in the evolution of complex territorial systems?**
+
+🔬 Research page:  
+**[Psicosphere–Technosphere](https://cyberzone8.github.io/psychosphere-technosphere/)**
+
+---
+
+## From territory to computational intelligence
+
+I am interested in developing computational representations that can connect:
+
+```text
+Natural Language
+      ↓
+Information Structuring
+      ↓
+Entities
+      ↓
+Capabilities
+      ↓
+Relations
+      ↓
+Networks / Graphs
+      ↓
+Semantic Representation
+      ↓
+Potential Patterns
+      ↓
+Hypotheses
+      ↓
+Observation
+      ↓
+Validation
+````
+
+A central epistemological principle of this work is:
+
+> **Computational similarity can generate hypotheses; it does not, by itself, demonstrate causality.**
+
+---
+
+## Current research directions
+
+### 🧠 Computational Social Systems
+
+Exploring how artificial intelligence, semantic representations and network analysis can support the study of complex social systems.
+
+### 🗺️ Territorial Intelligence
+
+Developing approaches for connecting territorial knowledge, institutions, communities, technologies and decision-making.
+
+### 🌱 Sustainability & Transformability
+
+Studying mechanisms associated with resilience, transformation and sustainability in intermediate cities and territorial systems.
+
+### 🤝 Community Systems
+
+Developing participatory and community-oriented approaches that connect local knowledge, institutions, research and technology.
+
+### 🔬 Interdisciplinary Research
+
+Building interfaces between:
+
+* Psychology
+* Social and Community Psychology
+* Sustainability Science
+* Systems Science
+* Computational Social Science
+* Artificial Intelligence
+* Network Science
+* Territorial Studies
+* Community Health
+* Dynamic Modelling
+
+---
+
+## Selected research
+
+### Psicosfera–Technosphere
+
+An interdisciplinary research line examining the relationship between human processes, social structures, institutions, technologies and territorial systems.
+
+🌐 **Research website:**
+https://cyberzone8.github.io/psychosphere-technosphere/
+
+💻 **Repository:**
+https://github.com/cyberzone8/psychosphere-technosphere
+
+---
+
+### Resilience–Transformability Archetypes
+
+Research developed in the context of my doctoral work on sustainability mechanisms in intermediate Chilean cities.
+
+The research explored **80 Chilean cities** and identified four R–T archetypes associated with different historical and territorial configurations.
+
+Selected cases included:
+
+* Copiapó
+* Talcahuano
+* Valdivia
+* Angol
+
+The resulting framework explores how historical and relational configurations may contribute to different trajectories of resilience and transformation.
+
+---
+
+### SAATS — Sistema de Articulación y Aprendizaje Territorial
+
+A community and territorial initiative designed to connect:
+
+```text
+Community
+    ↕
+Local Knowledge
+    ↕
+Organizations
+    ↕
+Institutions
+    ↕
+Research
+    ↕
+Technology
+    ↕
+Territorial Decisions
+```
+
+The objective is to reduce fragmentation between community needs, institutional capacities, information, research, technology and territorial action.
+
+---
+
+## Computational interests
+
+I use programming and computational tools as part of interdisciplinary research and prototyping.
+
+### Languages & technologies
+
+```text
+Python
+JavaScript
+HTML / CSS
+SQL
+Git / GitHub
+Linux
+Docker
+REST APIs
+Data Analysis
+Network Analysis
+Artificial Intelligence
+Semantic Analysis
+```
+
+### Research-oriented applications
+
+* Natural language processing
+* Semantic representation
+* Knowledge graphs
+* Network analysis
+* Territorial data
+* System modelling
+* Data integration
+* AI-assisted research
+* Decision-support systems
+* Computational experimentation
+
+---
+
+## Systems perspective
+
+My work is influenced by:
+
+* Critical Realism
+* Systems Thinking
+* Complexity Science
+* Sustainability Science
+* Social Systems
+* Territorial Studies
+* Network Science
+* Computational Social Science
+
+A recurring analytical distinction in my work is:
+
+```text
+Reality
+  ≠
+Observation
+  ≠
+Experience
+  ≠
+Interpretation
+  ≠
+Explanation
+```
+
+This distinction is important when moving from computational patterns toward scientific explanation.
+
+---
+
+## What I am building
+
+I am currently exploring a family of tools and research infrastructures for:
+
+**1. Territorial intelligence**
+
+Systems for organizing and connecting territorial knowledge.
+
+**2. Community learning**
+
+Tools that help communities transform local knowledge into structured information and collective learning.
+
+**3. Computational research**
+
+Methods for representing complex systems through entities, relations, networks and semantic structures.
+
+**4. AI-assisted analysis**
+
+Using AI to structure large volumes of qualitative information and identify candidate relationships for subsequent validation.
+
+**5. Systems strategy**
+
+Connecting systemic diagnosis with strategic intervention and measurable change.
+
+---
+
+## Open collaboration
+
+I am interested in collaborating with researchers, developers and practitioners working on:
+
+* AI for social research
+* Computational social science
+* Psychology and community psychology
+* Territorial intelligence
+* Sustainability
+* Resilience and transformation
+* Network science
+* Systems modelling
+* Community health
+* Participatory research
+* Geographic information systems
+* Data-driven decision support
+
+If your work connects several of these domains, I would be interested in exploring the interface.
+
+---
+
+## Selected projects
+
+| Project                       | Focus                                                   |
+| ----------------------------- | ------------------------------------------------------- |
+| **Psicosfera–Technosphere**   | Computational social systems & territorial intelligence |
+| **SAATS**                     | Community articulation & territorial learning           |
+| **UDIES**                     | Systemic intelligence & strategic action                |
+| **Territorial Research**      | Sustainability, resilience & transformability           |
+| **Community Project Systems** | Knowledge, capabilities & territorial action            |
+
+More projects and experiments are available across my repositories.
+
+---
+
+## Connect
+
+🌐 **Research:**
+https://cyberzone8.github.io/psychosphere-technosphere/
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/gustavo-godoy-phd-confidential-strategic-advisor-9b505029/
+
+📧 **Email:**
+[gustavogodoy.phd@gmail.com](mailto:gustavogodoy.phd@gmail.com)
+
+---
+
+## Research principle
+
+> **The human describes; the system structures; the researcher interprets; evidence validates.**
+
+---
+
+<sub>
+Gustavo Modesto Godoy Uribe · Interdisciplinary Research · Territorial Intelligence · Computational Social Systems
+</sub>
+```
+
