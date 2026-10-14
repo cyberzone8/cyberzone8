@@ -1,6 +1,3 @@
-Aquí tienes el documento **README.md** completo, corregido e integrado con **Expertos Chile SpA** como la dimensión empresarial, de inteligencia artificial y gestión de costos sistémicos, manteniendo intacta tu rigurosidad académica y territorial:
-
-```markdown
 # Gustavo Godoy
 
 **Pienso el territorio como la interacción entre la psicosfera y la tecnósfera.**
