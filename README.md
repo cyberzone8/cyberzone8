@@ -255,4 +255,4 @@ My work connects the local and the global: territorial planning with a 2050 hori
 
 Godoy Uribe, G. (2026). *Programa de Liderazgo Local y Desarrollo Territorial 2026–2027* [Programa de formación]. UDIES; Expertos Chile SpA. https://cyberzone8.github.io/expertoschile/programa-liderazgo.html
 
-Godoy Uribe, G. (2025). *TÍTULO EXACTO DE LA TESIS* [Tesis doctoral, Universidad Internacional de Ciencias, Educación y Sostenibilidad (UNICEPES)]. REPOSITORIO O URL, si está disponible.
+Godoy Uribe, G. (2025). Mecanismos de sostenibilidad urbana en ciudades intermedias chilenas: Marco analítico con enfoque del realismo crítico sobre la interacción tecnosfera-psicosfera y su aplicabilidad en políticas públicas. [Tesis doctoral, Universidad Centro Panamericano de Estudios Superiores (UNICEPES)].
