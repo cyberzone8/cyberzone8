@@ -89,6 +89,22 @@ flowchart TB
 La comunidad aporta la mirada desde el territorio, la práctica profesional y Expertos Chile aportan el rigor técnico, la ingeniería de procesos y la tecnología, el municipio decide con ambas, UDIES articula a todos en proyectos concretos y cada proyecto devuelve aprendizaje a la investigación. El Programa de Liderazgo Local lleva esa articulación a la formación de dirigentes y equipos municipales, con horizonte 2050.
 
 ---
+## 🎯 ¿Para qué soy bueno? (Y por qué puedo ayudarte en tantos campos)
+
+A menudo me preguntan cómo una sola persona puede moverse entre la ingeniería geomática, la analítica de datos y la IA, la investigación doctoral, la gestión municipal, los negocios y el trabajo con juntas de vecinos. 
+
+La respuesta corta es que **no hago cosas desconectadas; aplico un mismo método a distintas escalas del territorio.** 
+
+Puedo serte útil si necesitas cruzar la frontera entre la teoría y la ejecución real en los siguientes frentes:
+
+1. **Evitar costos ocultos y "efectos dominó" en operaciones o proyectos:** Gracias a mi experiencia en ingeniería de procesos, gestión y simulación, detecto dónde fallan los sistemas antes de que cuesten dinero (en empresas, plantas o municipios).
+2. **Conectar la tecnología con las personas (Psicosfera–Tecnósfera):** No diseño software, mapas o estrategias aisladas de la realidad humana. Traduzco datos complejos, información geoespacial e Inteligencia Artificial en herramientas que los equipos municipales y las comunidades realmente pueden usar y comprender.
+3. **Formular proyectos con sustento técnico y financiable:** Si eres un municipio, un dirigente social o una empresa, te ayudo a pasar "de la queja a la propuesta", estructurando iniciativas con estándar de fondos públicos (SUBDERE, FNDR, etc.) y una visión estratégica a 2050.
+4. **Investigar con rigor y transformar en práctica:** Como investigador y académico, domino los marcos teóricos complejos (como el realismo crítico y la sostenibilidad sistémica) pero sé bajarlos a diagnósticos operativos y planes de acción concretos.
+
+En resumen: **conecto lo que la comunidad vive, lo que los datos muestran y lo que la organización necesita decidir.**
+
+---
 
 ## 🧭 ¿Quién eres? Elige tu camino
 
