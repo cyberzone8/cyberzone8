@@ -1,4 +1,4 @@
-[# Gustavo Godoy
+# Gustavo Godoy
 
 **Ph.D. (c) Gustavo Godoy** · [Perfil en Google Scholar](https://scholar.google.com/citations?user=1BDUVUYAAAAJ&hl=es)
 
